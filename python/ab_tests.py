@@ -8,7 +8,8 @@ import duckdb
 import pyarrow
 import spark
 import boto3
-## Вафлі з кавою
+## Кава з вафлями
+## Hello world
 
 #!!
 #df=pd.read_csv('/Users/denistkachenko/Documents/marketing_AB.csv')
